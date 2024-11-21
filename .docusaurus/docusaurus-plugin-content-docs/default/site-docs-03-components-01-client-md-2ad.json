@@ -1,0 +1,25 @@
+{
+  "id": "components/client",
+  "title": "Client",
+  "description": "The client is an executable binary written in Go. This is the component the user primarily interacts with. It accepts user inputs via a Web UI and CLI.",
+  "source": "@site/docs/03_components/01_client.md",
+  "sourceDirName": "03_components",
+  "slug": "/components/client",
+  "permalink": "/docs/components/client",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/03_components/01_client.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Upgrading",
+    "permalink": "/docs/getting-started/upgrading"
+  },
+  "next": {
+    "title": "Package Operator",
+    "permalink": "/docs/components/package-operator"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/contributor-guidelines",
+  "source": "@site/blog/2024-04-04-contributor-guidelines/index.mdx",
+  "title": "Why contributor guidelines matter.",
+  "description": "Contributor guidelines are the missing piece needed to the best Developer Experience",
+  "date": "2024-04-04T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "glasskube",
+      "permalink": "/blog/tags/glasskube"
+    }
+  ],
+  "readingTime": 4.775,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Jake Page",
+      "title": "Developer Relations Engineer",
+      "url": "https://github.com/jakepage91",
+      "imageURL": "https://avatars.githubusercontent.com/jakepage91",
+      "key": "jpage",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "contributor-guidelines",
+    "title": "Why contributor guidelines matter.",
+    "description": "Contributor guidelines are the missing piece needed to the best Developer Experience",
+    "authors": [
+      "jpage"
+    ],
+    "tags": [
+      "glasskube"
+    ],
+    "image": "https://github.com/user-attachments/assets/a6209ab4-b4dd-42f8-b0be-fc30ea55d7cf"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Glasskube Beta is live.",
+    "permalink": "/blog/beta-launch"
+  },
+  "nextItem": {
+    "title": "10 Steps to Build a Top-Tier Discord Server for Your Open Source Community. ✨",
+    "permalink": "/blog/discord-setup"
+  }
+}

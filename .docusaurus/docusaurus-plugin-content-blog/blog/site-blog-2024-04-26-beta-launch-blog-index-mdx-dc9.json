@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/beta-launch",
+  "source": "@site/blog/2024-04-26-beta-launch-blog/index.mdx",
+  "title": "Glasskube Beta is live.",
+  "description": "Introducing the Beta release of Glasskube",
+  "date": "2024-04-26T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "glasskube",
+      "permalink": "/blog/tags/glasskube"
+    }
+  ],
+  "readingTime": 4.74,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Jake Page",
+      "title": "Developer Relations Engineer",
+      "url": "https://github.com/jakepage91",
+      "imageURL": "https://avatars.githubusercontent.com/jakepage91",
+      "key": "jpage",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "beta-launch",
+    "title": "Glasskube Beta is live.",
+    "description": "Introducing the Beta release of Glasskube",
+    "image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ziuc1lh9dg05idh5d9s.png",
+    "authors": [
+      "jpage"
+    ],
+    "tags": [
+      "glasskube"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Why nobody grows up wanting to be a DevOps engineer",
+    "permalink": "/blog/future-of-devops"
+  },
+  "nextItem": {
+    "title": "Why contributor guidelines matter.",
+    "permalink": "/blog/contributor-guidelines"
+  }
+}

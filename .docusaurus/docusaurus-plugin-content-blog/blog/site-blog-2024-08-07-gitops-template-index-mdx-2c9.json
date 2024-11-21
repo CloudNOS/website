@@ -1,0 +1,83 @@
+{
+  "permalink": "/blog/gitops-template",
+  "source": "@site/blog/2024-08-07-gitops-template/index.mdx",
+  "title": "Glasskube GitOps template",
+  "description": "A GitOps starter template to get started with ArgoCD & Glasskube in seconds instead of hours",
+  "date": "2024-08-07T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "glasskube",
+      "permalink": "/blog/tags/glasskube"
+    },
+    {
+      "inline": true,
+      "label": "argocd",
+      "permalink": "/blog/tags/argocd"
+    },
+    {
+      "inline": true,
+      "label": "gitops",
+      "permalink": "/blog/tags/gitops"
+    },
+    {
+      "inline": true,
+      "label": "template",
+      "permalink": "/blog/tags/template"
+    }
+  ],
+  "readingTime": 9.905,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Christoph Enne",
+      "title": "Software Engineer",
+      "url": "https://github.com/christophenne/",
+      "imageURL": "https://avatars.githubusercontent.com/christophenne",
+      "key": "christophenne",
+      "page": null
+    },
+    {
+      "name": "Jake Page",
+      "title": "Developer Relations Engineer",
+      "url": "https://github.com/jakepage91",
+      "imageURL": "https://avatars.githubusercontent.com/jakepage91",
+      "key": "jpage",
+      "page": null
+    },
+    {
+      "name": "Philip Miglinci",
+      "title": "Co-Founder",
+      "url": "https://www.linkedin.com/in/pmigat/",
+      "imageURL": "https://avatars.githubusercontent.com/pmig",
+      "key": "pmig",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "gitops-template",
+    "title": "Glasskube GitOps template",
+    "description": "A GitOps starter template to get started with ArgoCD & Glasskube in seconds instead of hours",
+    "authors": [
+      "christophenne",
+      "jpage",
+      "pmig"
+    ],
+    "tags": [
+      "glasskube",
+      "argocd",
+      "gitops",
+      "template"
+    ],
+    "image": "https://github.com/user-attachments/assets/7ad482a7-c0a2-4081-8654-670f3cccb7cd"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Launch week 2 - A new frontier of Kubernetes package management",
+    "permalink": "/blog/launch-week-number-2"
+  },
+  "nextItem": {
+    "title": "Why integrating an IDP for Series A companies doesn't make sense",
+    "permalink": "/blog/series-a-idp"
+  }
+}

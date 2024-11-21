@@ -1,0 +1,54 @@
+{
+  "docusaurusVersion": "3.5.2",
+  "siteVersion": "0.0.0",
+  "pluginVersions": {
+    "docusaurus-plugin-content-docs": {
+      "type": "package",
+      "name": "@docusaurus/plugin-content-docs",
+      "version": "3.5.2"
+    },
+    "docusaurus-plugin-content-pages": {
+      "type": "package",
+      "name": "@docusaurus/plugin-content-pages",
+      "version": "3.5.2"
+    },
+    "docusaurus-plugin-debug": {
+      "type": "package",
+      "name": "@docusaurus/plugin-debug",
+      "version": "3.5.2"
+    },
+    "docusaurus-theme-classic": {
+      "type": "package",
+      "name": "@docusaurus/theme-classic",
+      "version": "3.5.2"
+    },
+    "docusaurus-plugin-matomo": {
+      "type": "package",
+      "name": "docusaurus-plugin-matomo",
+      "version": "0.0.8"
+    },
+    "docusaurus-theme-mermaid": {
+      "type": "package",
+      "name": "@docusaurus/theme-mermaid",
+      "version": "3.5.2"
+    },
+    "docusaurus-plugin-content-blog": {
+      "type": "project"
+    },
+    "docusaurus-plugin-ideal-image": {
+      "type": "package",
+      "name": "@docusaurus/plugin-ideal-image",
+      "version": "3.5.2"
+    },
+    "posthog-docusaurus": {
+      "type": "package",
+      "name": "posthog-docusaurus",
+      "version": "2.0.1"
+    },
+    "docusaurus-theme-search-pagefind": {
+      "type": "package",
+      "name": "@getcanary/docusaurus-theme-search-pagefind",
+      "version": "0.0.13"
+    }
+  }
+}

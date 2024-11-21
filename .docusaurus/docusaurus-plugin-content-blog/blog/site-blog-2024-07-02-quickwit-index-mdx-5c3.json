@@ -1,0 +1,47 @@
+{
+  "permalink": "/blog/quickwit",
+  "source": "@site/blog/2024-07-02-quickwit/index.mdx",
+  "title": "Log and trace management made easy. Quickwit Integration via Glasskube",
+  "description": "A blog post on what Quickwit is and how it can help your data search efforts",
+  "date": "2024-07-02T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "glasskube",
+      "permalink": "/blog/tags/glasskube"
+    }
+  ],
+  "readingTime": 4.9,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Jake Page",
+      "title": "Developer Relations Engineer",
+      "url": "https://github.com/jakepage91",
+      "imageURL": "https://avatars.githubusercontent.com/jakepage91",
+      "key": "jpage",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "quickwit",
+    "title": "Log and trace management made easy. Quickwit Integration via Glasskube",
+    "description": "A blog post on what Quickwit is and how it can help your data search efforts",
+    "authors": [
+      "jpage"
+    ],
+    "tags": [
+      "glasskube"
+    ],
+    "image": "https://github.com/glasskube/glasskube/assets/38757612/03478d89-1d11-4263-93ca-f80d1607cef9"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Why integrating an IDP for Series A companies doesn't make sense",
+    "permalink": "/blog/series-a-idp"
+  },
+  "nextItem": {
+    "title": "Why nobody grows up wanting to be a DevOps engineer",
+    "permalink": "/blog/future-of-devops"
+  }
+}

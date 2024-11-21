@@ -1,0 +1,59 @@
+{
+  "permalink": "/blog/package-updates",
+  "source": "@site/blog/2024-02-27-release-package-updates/index.mdx",
+  "title": "Glasskube v0.0.3 — Introducing Package Updates",
+  "description": "Version 0.0.3, launched on February 27th: 10 contributors, 64 commits, introducing package update management.",
+  "date": "2024-02-27T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "glasskube",
+      "permalink": "/blog/tags/glasskube"
+    },
+    {
+      "inline": true,
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    },
+    {
+      "inline": true,
+      "label": "kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    }
+  ],
+  "readingTime": 3.13,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Philip Miglinci",
+      "title": "Co-Founder",
+      "url": "https://www.linkedin.com/in/pmigat/",
+      "imageURL": "https://avatars.githubusercontent.com/pmig",
+      "key": "pmig",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "package-updates",
+    "title": "Glasskube v0.0.3 — Introducing Package Updates",
+    "description": "Version 0.0.3, launched on February 27th: 10 contributors, 64 commits, introducing package update management.",
+    "authors": [
+      "pmig"
+    ],
+    "tags": [
+      "glasskube",
+      "release",
+      "kubernetes"
+    ],
+    "image": "https://github.com/user-attachments/assets/6bfd0894-fa64-40e0-a2e0-87dc9114d28b"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Glasskube v0.1.0 — Introducing Dependency Management",
+    "permalink": "/blog/release-v0.1.0"
+  },
+  "nextItem": {
+    "title": "The Inner Workings of Kubernetes Management Frontends — A Software Engineer’s Perspective",
+    "permalink": "/blog/kubernetes-frontends"
+  }
+}

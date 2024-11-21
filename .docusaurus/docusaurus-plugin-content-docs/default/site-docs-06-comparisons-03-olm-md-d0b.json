@@ -1,0 +1,26 @@
+{
+  "id": "comparisons/olm",
+  "title": "Glasskube vs OLM Comparison",
+  "description": "The Operator Lifecycle Manager (OLM) was introduced by Red Hat to manage operators. Glasskube supports all kinds of cloud-native packages and a GUI.",
+  "source": "@site/docs/06_comparisons/03_olm.md",
+  "sourceDirName": "06_comparisons",
+  "slug": "/comparisons/olm",
+  "permalink": "/docs/comparisons/olm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/06_comparisons/03_olm.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "slug": "olm",
+    "sidebar_label": "With OLM",
+    "title": "Glasskube vs OLM Comparison",
+    "description": "The Operator Lifecycle Manager (OLM) was introduced by Red Hat to manage operators. Glasskube supports all kinds of cloud-native packages and a GUI."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "With Timoni",
+    "permalink": "/docs/comparisons/timoni"
+  }
+}

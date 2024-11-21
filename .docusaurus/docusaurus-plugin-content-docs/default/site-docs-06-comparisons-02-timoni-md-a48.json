@@ -1,0 +1,30 @@
+{
+  "id": "comparisons/timoni",
+  "title": "Glasskube vs Timoni Comparison",
+  "description": "Timoni installs and updates cloud-native applications as bundles (OCI images) with a great support for configuration, but it requires users to create its own bundles.",
+  "source": "@site/docs/06_comparisons/02_timoni.md",
+  "sourceDirName": "06_comparisons",
+  "slug": "/comparisons/timoni",
+  "permalink": "/docs/comparisons/timoni",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/06_comparisons/02_timoni.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "slug": "timoni",
+    "sidebar_label": "With Timoni",
+    "title": "Glasskube vs Timoni Comparison",
+    "description": "Timoni installs and updates cloud-native applications as bundles (OCI images) with a great support for configuration, but it requires users to create its own bundles."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "With Helm",
+    "permalink": "/docs/comparisons/helm"
+  },
+  "next": {
+    "title": "With OLM",
+    "permalink": "/docs/comparisons/olm"
+  }
+}

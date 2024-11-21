@@ -1,0 +1,24 @@
+{
+  "id": "integration/WHMCS Module",
+  "title": "WHMCS Module",
+  "description": "",
+  "source": "@site/docs/04_integration/WHMCS Module.md",
+  "sourceDirName": "04_integration",
+  "slug": "/integration/WHMCS Module",
+  "permalink": "/docs/integration/WHMCS Module",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/04_integration/WHMCS Module.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Package Repository",
+    "permalink": "/docs/components/package-repository"
+  },
+  "next": {
+    "title": "GitOps",
+    "permalink": "/docs/integration/gitops"
+  }
+}

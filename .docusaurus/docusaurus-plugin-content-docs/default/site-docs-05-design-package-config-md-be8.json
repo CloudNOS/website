@@ -1,0 +1,24 @@
+{
+  "id": "design/package-config",
+  "title": "Package Configuration",
+  "description": "Problem analysis",
+  "source": "@site/docs/05_design/package-config.md",
+  "sourceDirName": "05_design",
+  "slug": "/design/package-config",
+  "permalink": "/docs/design/package-config",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/05_design/package-config.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Dependency Management",
+    "permalink": "/docs/design/dependency-management"
+  },
+  "next": {
+    "title": "Glasskube Repositories",
+    "permalink": "/docs/design/repositories"
+  }
+}

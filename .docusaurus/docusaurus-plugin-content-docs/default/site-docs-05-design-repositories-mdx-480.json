@@ -1,0 +1,24 @@
+{
+  "id": "design/repositories",
+  "title": "Glasskube Repositories",
+  "description": "Problem Analysis",
+  "source": "@site/docs/05_design/repositories.mdx",
+  "sourceDirName": "05_design",
+  "slug": "/design/repositories",
+  "permalink": "/docs/design/repositories",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/05_design/repositories.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Package Configuration",
+    "permalink": "/docs/design/package-config"
+  },
+  "next": {
+    "title": "Telemetry",
+    "permalink": "/docs/design/telemetry"
+  }
+}

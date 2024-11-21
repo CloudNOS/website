@@ -1,0 +1,42 @@
+{
+  "id": "rabbitmq",
+  "title": "RabbitMQ on Kubernetes",
+  "description": "Learn how to install RabbitMQ on Kubernetes",
+  "source": "@site/guides/05_rabbitmq.mdx",
+  "sourceDirName": ".",
+  "slug": "/rabbitmq",
+  "permalink": "/guides/rabbitmq",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "rabbitmq",
+      "permalink": "/guides/tags/rabbitmq"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "title": "RabbitMQ on Kubernetes",
+    "slug": "rabbitmq",
+    "description": "Learn how to install RabbitMQ on Kubernetes",
+    "authors": [
+      "jpage"
+    ],
+    "tags": [
+      "rabbitmq"
+    ]
+  },
+  "sidebar": "guides",
+  "previous": {
+    "title": "Install ingress-nginx",
+    "permalink": "/guides/ingress-nginx"
+  },
+  "next": {
+    "title": "Quickwit on Kubernetes",
+    "permalink": "/guides/Quickwit"
+  }
+}

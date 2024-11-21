@@ -1,0 +1,25 @@
+{
+  "id": "components/package-operator",
+  "title": "Package Operator",
+  "description": "The package operator follows the Kubernetes Operator Pattern and has two controllers:",
+  "source": "@site/docs/03_components/02_package-operator.md",
+  "sourceDirName": "03_components",
+  "slug": "/components/package-operator",
+  "permalink": "/docs/components/package-operator",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/03_components/02_package-operator.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Client",
+    "permalink": "/docs/components/client"
+  },
+  "next": {
+    "title": "Package Repository",
+    "permalink": "/docs/components/package-repository"
+  }
+}

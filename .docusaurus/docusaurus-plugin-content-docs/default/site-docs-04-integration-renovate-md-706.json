@@ -1,0 +1,24 @@
+{
+  "id": "integration/renovate",
+  "title": "Renovate",
+  "description": "Renovate is a popular application that automates dependency updates in various version control systems.",
+  "source": "@site/docs/04_integration/renovate.md",
+  "sourceDirName": "04_integration",
+  "slug": "/integration/renovate",
+  "permalink": "/docs/integration/renovate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/04_integration/renovate.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "GitOps",
+    "permalink": "/docs/integration/gitops"
+  },
+  "next": {
+    "title": "Dependency Management",
+    "permalink": "/docs/design/dependency-management"
+  }
+}

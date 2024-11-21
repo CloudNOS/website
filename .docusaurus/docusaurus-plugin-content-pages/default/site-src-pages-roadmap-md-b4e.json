@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/roadmap",
+  "source": "@site/src/pages/roadmap.md",
+  "title": "Roadmap",
+  "description": "Our next milestones and previous releases are managed on GitHub and are the single source of truth.",
+  "frontMatter": {
+    "title": "Roadmap"
+  },
+  "unlisted": false
+}

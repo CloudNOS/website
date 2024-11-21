@@ -1,0 +1,25 @@
+{
+  "id": "getting-started/bootstrap",
+  "title": "Bootstrap",
+  "description": "As Glasskube is still in technical preview a manual bootstrap is needed.",
+  "source": "@site/docs/02_getting-started/02_bootstrap.mdx",
+  "sourceDirName": "02_getting-started",
+  "slug": "/getting-started/bootstrap",
+  "permalink": "/docs/getting-started/bootstrap",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/02_getting-started/02_bootstrap.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/docs/getting-started/install"
+  },
+  "next": {
+    "title": "Upgrading",
+    "permalink": "/docs/getting-started/upgrading"
+  }
+}

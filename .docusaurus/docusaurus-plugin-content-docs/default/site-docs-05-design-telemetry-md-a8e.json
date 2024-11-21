@@ -1,0 +1,24 @@
+{
+  "id": "design/telemetry",
+  "title": "Telemetry",
+  "description": "By default, Glasskube collects some client usage data. We use this data to better understand how our users use Glasskube, identify bugs and make Glasskube a better product overall.",
+  "source": "@site/docs/05_design/telemetry.md",
+  "sourceDirName": "05_design",
+  "slug": "/design/telemetry",
+  "permalink": "/docs/design/telemetry",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/05_design/telemetry.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Glasskube Repositories",
+    "permalink": "/docs/design/repositories"
+  },
+  "next": {
+    "title": "With Helm",
+    "permalink": "/docs/comparisons/helm"
+  }
+}

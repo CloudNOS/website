@@ -1,0 +1,35 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Launch week 2 - A new frontier of Kubernetes package management",
+      "permalink": "/blog/launch-week-number-2",
+      "unlisted": false,
+      "date": "2024-09-09T00:00:00.000Z"
+    },
+    {
+      "title": "Glasskube GitOps template",
+      "permalink": "/blog/gitops-template",
+      "unlisted": false,
+      "date": "2024-08-07T00:00:00.000Z"
+    },
+    {
+      "title": "Why integrating an IDP for Series A companies doesn't make sense",
+      "permalink": "/blog/series-a-idp",
+      "unlisted": false,
+      "date": "2024-08-06T00:00:00.000Z"
+    },
+    {
+      "title": "Log and trace management made easy. Quickwit Integration via Glasskube",
+      "permalink": "/blog/quickwit",
+      "unlisted": false,
+      "date": "2024-07-02T00:00:00.000Z"
+    },
+    {
+      "title": "Why nobody grows up wanting to be a DevOps engineer",
+      "permalink": "/blog/future-of-devops",
+      "unlisted": false,
+      "date": "2024-05-20T00:00:00.000Z"
+    }
+  ]
+}

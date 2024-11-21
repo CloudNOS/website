@@ -1,0 +1,25 @@
+{
+  "id": "getting-started/upgrading",
+  "title": "Upgrading",
+  "description": "CLI",
+  "source": "@site/docs/02_getting-started/03_upgrading.mdx",
+  "sourceDirName": "02_getting-started",
+  "slug": "/getting-started/upgrading",
+  "permalink": "/docs/getting-started/upgrading",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/02_getting-started/03_upgrading.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Bootstrap",
+    "permalink": "/docs/getting-started/bootstrap"
+  },
+  "next": {
+    "title": "Client",
+    "permalink": "/docs/components/client"
+  }
+}

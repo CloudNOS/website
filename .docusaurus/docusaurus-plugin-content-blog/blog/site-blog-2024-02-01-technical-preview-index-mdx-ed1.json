@@ -1,0 +1,68 @@
+{
+  "permalink": "/blog/technical-preview",
+  "source": "@site/blog/2024-02-01-technical-preview/index.mdx",
+  "title": "Glasskube v0.0.1 — Technical Preview",
+  "description": "How to make 6M developers' life easier? Introducing Glasskube—The next generation Package Manager For Kubernetes",
+  "date": "2024-02-01T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "glasskube",
+      "permalink": "/blog/tags/glasskube"
+    },
+    {
+      "inline": true,
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    },
+    {
+      "inline": true,
+      "label": "kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    }
+  ],
+  "readingTime": 4.415,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Philip Miglinci",
+      "title": "Co-Founder",
+      "url": "https://www.linkedin.com/in/pmigat/",
+      "imageURL": "https://avatars.githubusercontent.com/pmig",
+      "key": "pmig",
+      "page": null
+    },
+    {
+      "name": "Louis Weston",
+      "title": "Co-Founder",
+      "url": "https://www.linkedin.com/in/louisnweston/",
+      "imageURL": "https://avatars.githubusercontent.com/thekubernaut",
+      "key": "lw",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "technical-preview",
+    "title": "Glasskube v0.0.1 — Technical Preview",
+    "description": "How to make 6M developers' life easier? Introducing Glasskube—The next generation Package Manager For Kubernetes",
+    "authors": [
+      "pmig",
+      "lw"
+    ],
+    "tags": [
+      "glasskube",
+      "release",
+      "kubernetes"
+    ],
+    "image": "https://github.com/user-attachments/assets/1c6859ac-dcee-4482-ac66-58a342bc0352"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Glasskube is now part of the CNCF Landscape",
+    "permalink": "/blog/cncf-landscape"
+  },
+  "nextItem": {
+    "title": "5 shortcomings of Helm",
+    "permalink": "/blog/5-helm-shortcomings"
+  }
+}

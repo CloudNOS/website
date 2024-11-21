@@ -1,0 +1,30 @@
+{
+  "id": "comparisons/helm",
+  "title": "Glasskube vs Helm Comparison",
+  "description": "Discover Glasskube, a fresh Kubernetes package manager challenging Helm's shortcomings. Explore automatic updates, dependency management and much more.",
+  "source": "@site/docs/06_comparisons/01_helm.md",
+  "sourceDirName": "06_comparisons",
+  "slug": "/comparisons/helm",
+  "permalink": "/docs/comparisons/helm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/06_comparisons/01_helm.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "helm",
+    "sidebar_label": "With Helm",
+    "title": "Glasskube vs Helm Comparison",
+    "description": "Discover Glasskube, a fresh Kubernetes package manager challenging Helm's shortcomings. Explore automatic updates, dependency management and much more."
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Telemetry",
+    "permalink": "/docs/design/telemetry"
+  },
+  "next": {
+    "title": "With Timoni",
+    "permalink": "/docs/comparisons/timoni"
+  }
+}

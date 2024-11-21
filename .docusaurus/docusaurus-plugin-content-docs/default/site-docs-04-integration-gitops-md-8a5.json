@@ -1,0 +1,24 @@
+{
+  "id": "integration/gitops",
+  "title": "GitOps",
+  "description": "All Glasskube features can be used in GitOps powered environments, as all the internal logic is built upon custom resource definitions.",
+  "source": "@site/docs/04_integration/gitops.md",
+  "sourceDirName": "04_integration",
+  "slug": "/integration/gitops",
+  "permalink": "/docs/integration/gitops",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/04_integration/gitops.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "WHMCS Module",
+    "permalink": "/docs/integration/WHMCS Module"
+  },
+  "next": {
+    "title": "Renovate",
+    "permalink": "/docs/integration/renovate"
+  }
+}

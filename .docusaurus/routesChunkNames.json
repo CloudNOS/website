@@ -1,0 +1,782 @@
+{
+  "/__docusaurus/debug/-546": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/config/-8a8": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/content/-2da": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    },
+    "__props": "__props---docusaurus-debug-content-197-dc7"
+  },
+  "/__docusaurus/debug/globalData/-178": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/metadata/-d6c": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/registry/-6e3": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/__docusaurus/debug/routes/-cab": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-b-38-895"
+    }
+  },
+  "/blog/-226": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-839-a9b"
+      },
+      {
+        "content": "content---blog-ecf-481"
+      },
+      {
+        "content": "content---blog-4-a-1-4db"
+      },
+      {
+        "content": "content---blog-e-83-30c"
+      },
+      {
+        "content": "content---blog-67-b-999"
+      },
+      {
+        "content": "content---blog-f-80-1dc"
+      },
+      {
+        "content": "content---blog-f-63-4d6"
+      },
+      {
+        "content": "content---blog-c-77-c98"
+      },
+      {
+        "content": "content---blog-178-78d"
+      },
+      {
+        "content": "content---blog-e-57-2dd"
+      }
+    ],
+    "__props": "__props---blog-c-4-b-78f"
+  },
+  "/blog/5-helm-shortcomings/-eee": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-5-helm-shortcomings-625-0a0"
+  },
+  "/blog/archive/-fca": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "__props": "__props---blog-archive-40-e-f08"
+  },
+  "/blog/authors/-b0a": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "__props": "__props---blog-authors-754-904"
+  },
+  "/blog/beta-launch/-6d2": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-beta-launch-dc-9-b5d"
+  },
+  "/blog/cncf-landscape/-e0a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-cncf-landscape-782-77b"
+  },
+  "/blog/contributor-guidelines/-b0a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-contributor-guidelines-085-b1a"
+  },
+  "/blog/discord-setup/-557": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-discord-setup-500-214"
+  },
+  "/blog/future-of-devops/-668": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-future-of-devops-246-689"
+  },
+  "/blog/gitops-template/-e18": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-gitops-template-2-c-9-343"
+  },
+  "/blog/kubernetes-frontends/-b4b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-kubernetes-frontends-3-bb-595"
+  },
+  "/blog/launch-week-number-2/-161": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-launch-week-number-2-1-cb-57a"
+  },
+  "/blog/open-command/-e3a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-open-command-18-a-d3c"
+  },
+  "/blog/package-updates/-c03": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-package-updates-756-243"
+  },
+  "/blog/page/2/-149": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-page-2-379-67f"
+      },
+      {
+        "content": "content---blog-page-2-e-04-42b"
+      },
+      {
+        "content": "content---blog-page-2-de-4-fa1"
+      },
+      {
+        "content": "content---blog-page-2-dad-968"
+      },
+      {
+        "content": "content---blog-page-2-332-e23"
+      }
+    ],
+    "__props": "__props---blog-page-2-258-86e"
+  },
+  "/blog/quickwit/-d50": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-quickwit-5-c-3-b57"
+  },
+  "/blog/release-v0.1.0/-8aa": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-release-v-0-1-0-232-4d5"
+  },
+  "/blog/series-a-idp/-3cd": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-series-a-idp-5-d-8-483"
+  },
+  "/blog/tags/-784": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "__props": "__props---blog-tags-380-f27"
+  },
+  "/blog/tags/argocd/-108": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-ecf-481"
+      }
+    ],
+    "__props": "__props---blog-tags-argocd-eb-3-a46"
+  },
+  "/blog/tags/cncf/-31d": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-page-2-de-4-fa1"
+      }
+    ],
+    "__props": "__props---blog-tags-cncf-a-77-153"
+  },
+  "/blog/tags/discord/-eb9": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-c-77-c98"
+      }
+    ],
+    "__props": "__props---blog-tags-discord-bfd-a3c"
+  },
+  "/blog/tags/frontends/-a0f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-page-2-379-67f"
+      }
+    ],
+    "__props": "__props---blog-tags-frontends-7-ed-cfe"
+  },
+  "/blog/tags/gitops/-d71": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-839-a9b"
+      },
+      {
+        "content": "content---blog-ecf-481"
+      }
+    ],
+    "__props": "__props---blog-tags-gitops-f-27-b6d"
+  },
+  "/blog/tags/glasskube/-05f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-839-a9b"
+      },
+      {
+        "content": "content---blog-ecf-481"
+      },
+      {
+        "content": "content---blog-4-a-1-4db"
+      },
+      {
+        "content": "content---blog-e-83-30c"
+      },
+      {
+        "content": "content---blog-67-b-999"
+      },
+      {
+        "content": "content---blog-f-80-1dc"
+      },
+      {
+        "content": "content---blog-f-63-4d6"
+      },
+      {
+        "content": "content---blog-c-77-c98"
+      },
+      {
+        "content": "content---blog-178-78d"
+      },
+      {
+        "content": "content---blog-e-57-2dd"
+      }
+    ],
+    "__props": "__props---blog-tags-glasskube-dc-0-934"
+  },
+  "/blog/tags/glasskube/page/2/-f95": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-page-2-379-67f"
+      },
+      {
+        "content": "content---blog-page-2-e-04-42b"
+      },
+      {
+        "content": "content---blog-page-2-de-4-fa1"
+      },
+      {
+        "content": "content---blog-page-2-dad-968"
+      },
+      {
+        "content": "content---blog-page-2-332-e23"
+      }
+    ],
+    "__props": "__props---blog-tags-glasskube-page-2-129-0b5"
+  },
+  "/blog/tags/helm/-0e4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-page-2-332-e23"
+      }
+    ],
+    "__props": "__props---blog-tags-helm-012-2a2"
+  },
+  "/blog/tags/idp/-856": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-4-a-1-4db"
+      }
+    ],
+    "__props": "__props---blog-tags-idp-87-f-f9d"
+  },
+  "/blog/tags/kubernetes/-a65": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-178-78d"
+      },
+      {
+        "content": "content---blog-e-57-2dd"
+      },
+      {
+        "content": "content---blog-page-2-379-67f"
+      },
+      {
+        "content": "content---blog-page-2-e-04-42b"
+      },
+      {
+        "content": "content---blog-page-2-dad-968"
+      },
+      {
+        "content": "content---blog-page-2-332-e23"
+      }
+    ],
+    "__props": "__props---blog-tags-kubernetes-0-af-019"
+  },
+  "/blog/tags/launch-week/-bd4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-839-a9b"
+      }
+    ],
+    "__props": "__props---blog-tags-launch-week-870-c0e"
+  },
+  "/blog/tags/news/-2f0": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-page-2-de-4-fa1"
+      }
+    ],
+    "__props": "__props---blog-tags-news-749-4da"
+  },
+  "/blog/tags/release/-ffb": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-178-78d"
+      },
+      {
+        "content": "content---blog-e-57-2dd"
+      },
+      {
+        "content": "content---blog-page-2-e-04-42b"
+      },
+      {
+        "content": "content---blog-page-2-dad-968"
+      }
+    ],
+    "__props": "__props---blog-tags-release-f-8-a-858"
+  },
+  "/blog/tags/template/-19b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "items": [
+      {
+        "content": "content---blog-ecf-481"
+      }
+    ],
+    "__props": "__props---blog-tags-template-2-da-7fa"
+  },
+  "/blog/technical-preview/-cf3": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-5-helm-shortcomings-49-f-a18"
+      },
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "sidebar": "sidebar---blog-95-b-d3f",
+    "content": "content---blog-technical-preview-ed-1-622"
+  },
+  "/packages/-08e": {
+    "__comp": "__comp---site-src-pages-packages-index-tsx-961-b44",
+    "__context": {
+      "plugin": "plugin---packages-a-74-328"
+    },
+    "config": "config---packages-5-e-9-e31"
+  },
+  "/pricing/-c75": {
+    "__comp": "__comp---site-src-pages-pricing-index-tsx-279-1a9",
+    "__context": {
+      "plugin": "plugin---packages-a-74-328"
+    },
+    "config": "config---packages-5-e-9-e31"
+  },
+  "/products/DCIM/-c41": {
+    "__comp": "__comp---site-src-pages-products-dcim-index-tsx-1-ef-791",
+    "__context": {
+      "plugin": "plugin---packages-a-74-328"
+    },
+    "config": "config---packages-5-e-9-e31"
+  },
+  "/products/hub/-859": {
+    "__comp": "__comp---site-src-pages-products-hub-index-tsxadb-499",
+    "__context": {
+      "plugin": "plugin---packages-a-74-328"
+    },
+    "config": "config---packages-5-e-9-e31"
+  },
+  "/roadmap/-fb4": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---packages-a-74-328"
+    },
+    "content": "content---roadmap-b-4-e-38d"
+  },
+  "/telemetry/-000": {
+    "__comp": "__comp---site-src-pages-telemetry-tsxbde-a39",
+    "__context": {
+      "plugin": "plugin---packages-a-74-328"
+    },
+    "config": "config---packages-5-e-9-e31"
+  },
+  "/docs/-6eb": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docs-aba-4f5"
+    }
+  },
+  "/docs/-b8c": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-11-b-f70"
+  },
+  "/docs/-5a1": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/-56e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-c-37-4d0"
+  },
+  "/docs/comparisons/helm/-672": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-comparisons-helm-0-f-8-9b3"
+  },
+  "/docs/comparisons/olm/-14d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-comparisons-olm-d-0-b-b68"
+  },
+  "/docs/comparisons/timoni/-046": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-comparisons-timoni-a-48-b44"
+  },
+  "/docs/components/client/-744": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-components-client-2-ad-fa4"
+  },
+  "/docs/components/package-operator/-773": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-components-package-operator-87-d-5ca"
+  },
+  "/docs/components/package-repository/-1a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-components-package-repository-a-50-63d"
+  },
+  "/docs/design/dependency-management/-f91": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-design-dependency-management-87-e-e67"
+  },
+  "/docs/design/package-config/-ac8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-design-package-config-be-8-407"
+  },
+  "/docs/design/repositories/-33b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-design-repositories-480-1d9"
+  },
+  "/docs/design/telemetry/-7f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-design-telemetry-a-8-e-397"
+  },
+  "/docs/getting-started/bootstrap/-412": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-bootstrap-e-6-c-c82"
+  },
+  "/docs/getting-started/install/-636": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-install-966-933"
+  },
+  "/docs/getting-started/upgrading/-482": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-upgrading-d-0-d-740"
+  },
+  "/docs/integration/gitops/-021": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-integration-gitops-8-a-5-2be"
+  },
+  "/docs/integration/renovate/-c07": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-integration-renovate-706-db8"
+  },
+  "/docs/integration/WHMCS Module/-de6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-integration-whmcs-module-404-a96"
+  },
+  "/guides/-4b1": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---guides-34-a-3be"
+    }
+  },
+  "/guides/-1f0": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---guides-e-26-007"
+  },
+  "/guides/tags/-c53": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "__props": "__props---guides-tags-226-7a0"
+  },
+  "/guides/tags/add-a-new-package/-ea9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---guides-tags-add-a-new-package-0-dd-8c9"
+  },
+  "/guides/tags/cert-manager/-198": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---guides-tags-cert-manager-79-e-945"
+  },
+  "/guides/tags/git/-f2b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---guides-tags-git-9-ca-de6"
+  },
+  "/guides/tags/ingress-nginx/-0ff": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---guides-tags-ingress-nginx-b-69-fe3"
+  },
+  "/guides/tags/kube-prometheus-stack/-1f0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---guides-tags-kube-prometheus-stack-e-38-6b3"
+  },
+  "/guides/tags/kubectl/-064": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---guides-tags-kubectl-06-b-8ea"
+  },
+  "/guides/tags/quickwit/-feb": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---guides-tags-quickwit-fad-470"
+  },
+  "/guides/tags/rabbitmq/-8ee": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "__props": "__props---guides-tags-rabbitmq-6-bb-b2e"
+  },
+  "/guides/-02e": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/guides/categories/-b20": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---guides-categories-383-6ab"
+  },
+  "/guides/categories/contributors/-944": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---guides-categories-contributors-62-f-7a7"
+  },
+  "/guides/cert-manager/-3fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-cert-manager-f-5-f-361"
+  },
+  "/guides/git/-195": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-git-5-d-8-bef"
+  },
+  "/guides/how-to-add-a-package/-4b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-how-to-add-a-package-2-e-9-d70"
+  },
+  "/guides/ingress-nginx/-4f1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-ingress-nginx-3-ba-a7a"
+  },
+  "/guides/kube-prometheus-stack/-ea2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-kube-prometheus-stack-fe-6-164"
+  },
+  "/guides/kubectl/-20b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-kubectl-8-f-8-495"
+  },
+  "/guides/Quickwit/-fd6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-quickwit-080-92b"
+  },
+  "/guides/rabbitmq/-aab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-rabbitmq-09-c-28a"
+  },
+  "/-010": {
+    "__comp": "__comp---site-src-components-home-index-tsx-1-cd-1a7",
+    "__context": {
+      "plugin": "plugin---blog-f-1-c-bb2"
+    },
+    "homePageBlogMetadata": "homePageBlogMetadata---a-4-a-487",
+    "recentPosts": [
+      {
+        "metadata": "metadata---8-bf-c81",
+        "Preview": "content---blog-839-a9b"
+      },
+      {
+        "metadata": "metadata---5-a-3-f6e",
+        "Preview": "content---blog-ecf-481"
+      },
+      {
+        "metadata": "metadata---6-af-58b",
+        "Preview": "content---blog-4-a-1-4db"
+      }
+    ]
+  }
+}

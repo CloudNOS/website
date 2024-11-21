@@ -1,0 +1,59 @@
+{
+  "permalink": "/blog/kubernetes-frontends",
+  "source": "@site/blog/2024-02-14-kubernetes-frontends/index.mdx",
+  "title": "The Inner Workings of Kubernetes Management Frontends — A Software Engineer’s Perspective",
+  "description": "Analyzing Code and Architecture of Kubernetes Management Frontends — How to build and deploy tools like ArgoCD and glasskube.",
+  "date": "2024-02-14T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "glasskube",
+      "permalink": "/blog/tags/glasskube"
+    },
+    {
+      "inline": true,
+      "label": "kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    },
+    {
+      "inline": true,
+      "label": "frontends",
+      "permalink": "/blog/tags/frontends"
+    }
+  ],
+  "readingTime": 10.035,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Christoph Enne",
+      "title": "Software Engineer",
+      "url": "https://github.com/christophenne/",
+      "imageURL": "https://avatars.githubusercontent.com/christophenne",
+      "key": "christophenne",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "kubernetes-frontends",
+    "title": "The Inner Workings of Kubernetes Management Frontends — A Software Engineer’s Perspective",
+    "description": "Analyzing Code and Architecture of Kubernetes Management Frontends — How to build and deploy tools like ArgoCD and glasskube.",
+    "authors": [
+      "christophenne"
+    ],
+    "tags": [
+      "glasskube",
+      "kubernetes",
+      "frontends"
+    ],
+    "image": "https://github.com/user-attachments/assets/e6836ba6-6201-4f34-b7ba-981dfbd13dcc"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Glasskube v0.0.3 — Introducing Package Updates",
+    "permalink": "/blog/package-updates"
+  },
+  "nextItem": {
+    "title": "Glasskube v0.0.2 — Open Command",
+    "permalink": "/blog/open-command"
+  }
+}

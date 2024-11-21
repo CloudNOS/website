@@ -1,0 +1,64 @@
+{
+  "permalink": "/blog/launch-week-number-2",
+  "source": "@site/blog/2024-09-09-launch-week-2/index.mdx",
+  "title": "Launch week 2 - A new frontier of Kubernetes package management",
+  "description": "We have happy to announce the second official Glasskube Launch week, full of updates, fun and a whole lot of Kubernetes package management.",
+  "date": "2024-09-09T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "glasskube",
+      "permalink": "/blog/tags/glasskube"
+    },
+    {
+      "inline": true,
+      "label": "gitops",
+      "permalink": "/blog/tags/gitops"
+    },
+    {
+      "inline": true,
+      "label": "launch-week",
+      "permalink": "/blog/tags/launch-week"
+    }
+  ],
+  "readingTime": 4.27,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Jake Page",
+      "title": "Developer Relations Engineer",
+      "url": "https://github.com/jakepage91",
+      "imageURL": "https://avatars.githubusercontent.com/jakepage91",
+      "key": "jpage",
+      "page": null
+    },
+    {
+      "name": "Philip Miglinci",
+      "title": "Co-Founder",
+      "url": "https://www.linkedin.com/in/pmigat/",
+      "imageURL": "https://avatars.githubusercontent.com/pmig",
+      "key": "pmig",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "launch-week-number-2",
+    "title": "Launch week 2 - A new frontier of Kubernetes package management",
+    "description": "We have happy to announce the second official Glasskube Launch week, full of updates, fun and a whole lot of Kubernetes package management.",
+    "authors": [
+      "jpage",
+      "pmig"
+    ],
+    "tags": [
+      "glasskube",
+      "gitops",
+      "launch-week"
+    ],
+    "image": "https://github.com/user-attachments/assets/3d4d0bee-fa39-4d52-8873-09d9226c1b18"
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "Glasskube GitOps template",
+    "permalink": "/blog/gitops-template"
+  }
+}

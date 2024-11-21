@@ -1,0 +1,53 @@
+{
+  "permalink": "/blog/discord-setup",
+  "source": "@site/blog/2024-03-26-discord-setup/index.mdx",
+  "title": "10 Steps to Build a Top-Tier Discord Server for Your Open Source Community. ✨",
+  "description": "The definitive guide to set up a Discord server your community members will really enjoy",
+  "date": "2024-03-26T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "glasskube",
+      "permalink": "/blog/tags/glasskube"
+    },
+    {
+      "inline": true,
+      "label": "discord",
+      "permalink": "/blog/tags/discord"
+    }
+  ],
+  "readingTime": 9.64,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Jake Page",
+      "title": "Developer Relations Engineer",
+      "url": "https://github.com/jakepage91",
+      "imageURL": "https://avatars.githubusercontent.com/jakepage91",
+      "key": "jpage",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "discord-setup",
+    "title": "10 Steps to Build a Top-Tier Discord Server for Your Open Source Community. ✨",
+    "description": "The definitive guide to set up a Discord server your community members will really enjoy",
+    "authors": [
+      "jpage"
+    ],
+    "tags": [
+      "glasskube",
+      "discord"
+    ],
+    "image": "https://github.com/user-attachments/assets/62307c6b-5eb4-43bb-8726-3e9330622f71"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Why contributor guidelines matter.",
+    "permalink": "/blog/contributor-guidelines"
+  },
+  "nextItem": {
+    "title": "Glasskube v0.1.0 — Introducing Dependency Management",
+    "permalink": "/blog/release-v0.1.0"
+  }
+}

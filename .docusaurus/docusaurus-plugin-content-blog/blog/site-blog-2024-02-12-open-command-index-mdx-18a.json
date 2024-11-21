@@ -1,0 +1,59 @@
+{
+  "permalink": "/blog/open-command",
+  "source": "@site/blog/2024-02-12-open-command/index.mdx",
+  "title": "Glasskube v0.0.2 — Open Command",
+  "description": "Version 0.0.2, launched on February 9th: 14 contributors, 58 commits, new open command for service access, real-time updates with htmx.",
+  "date": "2024-02-12T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "glasskube",
+      "permalink": "/blog/tags/glasskube"
+    },
+    {
+      "inline": true,
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    },
+    {
+      "inline": true,
+      "label": "kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    }
+  ],
+  "readingTime": 2.15,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Philip Miglinci",
+      "title": "Co-Founder",
+      "url": "https://www.linkedin.com/in/pmigat/",
+      "imageURL": "https://avatars.githubusercontent.com/pmig",
+      "key": "pmig",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "open-command",
+    "title": "Glasskube v0.0.2 — Open Command",
+    "description": "Version 0.0.2, launched on February 9th: 14 contributors, 58 commits, new open command for service access, real-time updates with htmx.",
+    "authors": [
+      "pmig"
+    ],
+    "tags": [
+      "glasskube",
+      "release",
+      "kubernetes"
+    ],
+    "image": "https://github.com/user-attachments/assets/3fb4d679-5f3a-4307-bce0-70c3575539ca"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "The Inner Workings of Kubernetes Management Frontends — A Software Engineer’s Perspective",
+    "permalink": "/blog/kubernetes-frontends"
+  },
+  "nextItem": {
+    "title": "Glasskube is now part of the CNCF Landscape",
+    "permalink": "/blog/cncf-landscape"
+  }
+}

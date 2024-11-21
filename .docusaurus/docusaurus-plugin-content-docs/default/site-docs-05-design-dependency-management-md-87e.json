@@ -1,0 +1,24 @@
+{
+  "id": "design/dependency-management",
+  "title": "Dependency Management",
+  "description": "Dependency Management is a cross-cutting concern that is being handled in all glasskube components (GUI, CLI, Operator).",
+  "source": "@site/docs/05_design/dependency-management.md",
+  "sourceDirName": "05_design",
+  "slug": "/design/dependency-management",
+  "permalink": "/docs/design/dependency-management",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/05_design/dependency-management.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Renovate",
+    "permalink": "/docs/integration/renovate"
+  },
+  "next": {
+    "title": "Package Configuration",
+    "permalink": "/docs/design/package-config"
+  }
+}

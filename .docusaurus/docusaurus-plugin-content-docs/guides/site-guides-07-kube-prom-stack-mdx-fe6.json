@@ -1,0 +1,42 @@
+{
+  "id": "kube-prom-stack",
+  "title": "Install the Kube Prometheus Stack",
+  "description": "Learn how to easily install the kube-prometheus-stack with Glasskube",
+  "source": "@site/guides/07_kube-prom-stack.mdx",
+  "sourceDirName": ".",
+  "slug": "/kube-prometheus-stack",
+  "permalink": "/guides/kube-prometheus-stack",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "kube-prometheus-stack",
+      "permalink": "/guides/tags/kube-prometheus-stack"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "title": "Install the Kube Prometheus Stack",
+    "slug": "kube-prometheus-stack",
+    "description": "Learn how to easily install the kube-prometheus-stack with Glasskube",
+    "authors": [
+      "jpage"
+    ],
+    "tags": [
+      "kube-prometheus-stack"
+    ]
+  },
+  "sidebar": "guides",
+  "previous": {
+    "title": "Quickwit on Kubernetes",
+    "permalink": "/guides/Quickwit"
+  },
+  "next": {
+    "title": "Contributor Guides",
+    "permalink": "/guides/categories/contributors"
+  }
+}

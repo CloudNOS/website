@@ -1,0 +1,216 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "comparisons/helm",
+              "path": "/docs/comparisons/helm",
+              "sidebar": "docs"
+            },
+            {
+              "id": "comparisons/olm",
+              "path": "/docs/comparisons/olm",
+              "sidebar": "docs"
+            },
+            {
+              "id": "comparisons/timoni",
+              "path": "/docs/comparisons/timoni",
+              "sidebar": "docs"
+            },
+            {
+              "id": "components/client",
+              "path": "/docs/components/client",
+              "sidebar": "docs"
+            },
+            {
+              "id": "components/package-operator",
+              "path": "/docs/components/package-operator",
+              "sidebar": "docs"
+            },
+            {
+              "id": "components/package-repository",
+              "path": "/docs/components/package-repository",
+              "sidebar": "docs"
+            },
+            {
+              "id": "design/dependency-management",
+              "path": "/docs/design/dependency-management",
+              "sidebar": "docs"
+            },
+            {
+              "id": "design/package-config",
+              "path": "/docs/design/package-config",
+              "sidebar": "docs"
+            },
+            {
+              "id": "design/repositories",
+              "path": "/docs/design/repositories",
+              "sidebar": "docs"
+            },
+            {
+              "id": "design/telemetry",
+              "path": "/docs/design/telemetry",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/bootstrap",
+              "path": "/docs/getting-started/bootstrap",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/install",
+              "path": "/docs/getting-started/install",
+              "sidebar": "docs"
+            },
+            {
+              "id": "getting-started/upgrading",
+              "path": "/docs/getting-started/upgrading",
+              "sidebar": "docs"
+            },
+            {
+              "id": "index",
+              "path": "/docs/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "integration/gitops",
+              "path": "/docs/integration/gitops",
+              "sidebar": "docs"
+            },
+            {
+              "id": "integration/renovate",
+              "path": "/docs/integration/renovate",
+              "sidebar": "docs"
+            },
+            {
+              "id": "integration/WHMCS Module",
+              "path": "/docs/integration/WHMCS Module",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/docs/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "guides": {
+      "path": "/guides",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/guides",
+          "mainDocId": "cert-manager",
+          "docs": [
+            {
+              "id": "cert-manager",
+              "path": "/guides/cert-manager",
+              "sidebar": "guides"
+            },
+            {
+              "id": "git-guide",
+              "path": "/guides/git",
+              "sidebar": "guides"
+            },
+            {
+              "id": "ingress-nginx",
+              "path": "/guides/ingress-nginx",
+              "sidebar": "guides"
+            },
+            {
+              "id": "kube-prom-stack",
+              "path": "/guides/kube-prometheus-stack",
+              "sidebar": "guides"
+            },
+            {
+              "id": "kubectl-guide",
+              "path": "/guides/kubectl",
+              "sidebar": "guides"
+            },
+            {
+              "id": "package-creation",
+              "path": "/guides/how-to-add-a-package",
+              "sidebar": "guides"
+            },
+            {
+              "id": "quickwit",
+              "path": "/guides/Quickwit",
+              "sidebar": "guides"
+            },
+            {
+              "id": "rabbitmq",
+              "path": "/guides/rabbitmq",
+              "sidebar": "guides"
+            },
+            {
+              "id": "/categories/",
+              "path": "/guides/categories/",
+              "sidebar": "guides"
+            },
+            {
+              "id": "/categories/contributors",
+              "path": "/guides/categories/contributors",
+              "sidebar": "guides"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "guides": {
+              "link": {
+                "path": "/guides/categories/",
+                "label": "Package Installation Guides"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  },
+  "docusaurus-theme-search-pagefind": {
+    "default": {
+      "options": {
+        "includeRoutes": [
+          "**/*"
+        ],
+        "group": true,
+        "tabs": [
+          {
+            "name": "All",
+            "pattern": "**/*"
+          },
+          {
+            "name": "Docs",
+            "pattern": "/docs/**"
+          },
+          {
+            "name": "Guides",
+            "pattern": "/guides/**"
+          },
+          {
+            "name": "Blog",
+            "pattern": "/blog/**"
+          }
+        ],
+        "id": "default"
+      }
+    }
+  }
+}

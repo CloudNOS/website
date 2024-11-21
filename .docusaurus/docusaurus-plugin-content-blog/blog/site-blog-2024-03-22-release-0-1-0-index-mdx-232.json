@@ -1,0 +1,59 @@
+{
+  "permalink": "/blog/release-v0.1.0",
+  "source": "@site/blog/2024-03-22-release-0.1.0/index.mdx",
+  "title": "Glasskube v0.1.0 — Introducing Dependency Management",
+  "description": "Version 0.1.0, launched on March 21st: 10 contributors, 53 commits, introducing Dark Mode and Dependency Management.",
+  "date": "2024-03-22T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": true,
+      "label": "glasskube",
+      "permalink": "/blog/tags/glasskube"
+    },
+    {
+      "inline": true,
+      "label": "release",
+      "permalink": "/blog/tags/release"
+    },
+    {
+      "inline": true,
+      "label": "kubernetes",
+      "permalink": "/blog/tags/kubernetes"
+    }
+  ],
+  "readingTime": 2.715,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "Jake Page",
+      "title": "Developer Relations Engineer",
+      "url": "https://github.com/jakepage91",
+      "imageURL": "https://avatars.githubusercontent.com/jakepage91",
+      "key": "jpage",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "release-v0.1.0",
+    "title": "Glasskube v0.1.0 — Introducing Dependency Management",
+    "description": "Version 0.1.0, launched on March 21st: 10 contributors, 53 commits, introducing Dark Mode and Dependency Management.",
+    "authors": [
+      "jpage"
+    ],
+    "tags": [
+      "glasskube",
+      "release",
+      "kubernetes"
+    ],
+    "image": "https://github.com/user-attachments/assets/d37f9f1b-13d2-42bb-9264-a96bd4852a0b"
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "10 Steps to Build a Top-Tier Discord Server for Your Open Source Community. ✨",
+    "permalink": "/blog/discord-setup"
+  },
+  "nextItem": {
+    "title": "Glasskube v0.0.3 — Introducing Package Updates",
+    "permalink": "/blog/package-updates"
+  }
+}

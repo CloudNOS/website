@@ -1,0 +1,25 @@
+{
+  "id": "components/package-repository",
+  "title": "Package Repository",
+  "description": "The package repository is where PackageManifests are stored, searched for and maintained.",
+  "source": "@site/docs/03_components/03_package-repository.md",
+  "sourceDirName": "03_components",
+  "slug": "/components/package-repository",
+  "permalink": "/docs/components/package-repository",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/03_components/03_package-repository.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Package Operator",
+    "permalink": "/docs/components/package-operator"
+  },
+  "next": {
+    "title": "WHMCS Module",
+    "permalink": "/docs/integration/WHMCS Module"
+  }
+}

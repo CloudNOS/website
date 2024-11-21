@@ -1,0 +1,25 @@
+{
+  "id": "getting-started/install",
+  "title": "Installation",
+  "description": "Glasskube is available for macOS, Windows and Linux.",
+  "source": "@site/docs/02_getting-started/01_install.mdx",
+  "sourceDirName": "02_getting-started",
+  "slug": "/getting-started/install",
+  "permalink": "/docs/getting-started/install",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/02_getting-started/01_install.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Welcome",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "Bootstrap",
+    "permalink": "/docs/getting-started/bootstrap"
+  }
+}

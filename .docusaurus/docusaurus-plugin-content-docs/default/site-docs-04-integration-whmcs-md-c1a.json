@@ -1,0 +1,24 @@
+{
+  "id": "integration/whmcs",
+  "title": "whmcs",
+  "description": "",
+  "source": "@site/docs/04_integration/whmcs.md",
+  "sourceDirName": "04_integration",
+  "slug": "/integration/whmcs",
+  "permalink": "/docs/integration/whmcs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/glasskube/glasskube/tree/main/website/docs/04_integration/whmcs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Renovate",
+    "permalink": "/docs/integration/renovate"
+  },
+  "next": {
+    "title": "Dependency Management",
+    "permalink": "/docs/design/dependency-management"
+  }
+}

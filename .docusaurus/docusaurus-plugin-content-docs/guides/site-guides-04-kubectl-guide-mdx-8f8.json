@@ -1,0 +1,42 @@
+{
+  "id": "kubectl-guide",
+  "title": "The guide to kubectl I never had.",
+  "description": "A deep dive into the tips and tricks, plugins and tool that make kubectl such a versatile CLI tool for Kubernetes",
+  "source": "@site/guides/04_kubectl-guide.mdx",
+  "sourceDirName": ".",
+  "slug": "/kubectl",
+  "permalink": "/guides/kubectl",
+  "draft": false,
+  "unlisted": false,
+  "tags": [
+    {
+      "inline": true,
+      "label": "kubectl",
+      "permalink": "/guides/tags/kubectl"
+    }
+  ],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "title": "The guide to kubectl I never had.",
+    "slug": "kubectl",
+    "description": "A deep dive into the tips and tricks, plugins and tool that make kubectl such a versatile CLI tool for Kubernetes",
+    "authors": [
+      "jpage"
+    ],
+    "tags": [
+      "kubectl"
+    ]
+  },
+  "sidebar": "guides",
+  "previous": {
+    "title": "The guide to Git I never had.",
+    "permalink": "/guides/git"
+  },
+  "next": {
+    "title": "How to add a Package to Glasskube",
+    "permalink": "/guides/how-to-add-a-package"
+  }
+}
